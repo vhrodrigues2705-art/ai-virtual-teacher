@@ -14,7 +14,7 @@ Criar uma experiência de aprendizado semelhante a um professor humano, adaptand
 
 ## 🚀 Demonstração
 👉 Acesse o app:  
-**COLE_AQUI_A_URL_DO_APP**
+https://professor-virtual-a46b4b75.base44.app
 
 ## 🧠 Status do projeto
 - MVP funcional
